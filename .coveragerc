@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = btctrader
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    btctrader/__main__.py
